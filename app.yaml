@@ -15,9 +15,9 @@ handlers:
 - url: /img
   static_dir: static/img
 
-- url: /chapters
-  static_files: templates/chapters.html
-  upload: templates/chapters.html
+# - url: /chapters
+#   static_files: templates/chapters.html
+#   upload: templates/chapters.html
 
 - url: /.*
   static_files: templates/index.html
