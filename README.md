@@ -9,5 +9,3 @@ It's divided into 2 main folders:
 If you want to contribute or add pages to GDG Malaysia's website, just submit a pull request.
 
 Fork it. 
-
-Thanks, Naz.
