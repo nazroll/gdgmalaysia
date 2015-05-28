@@ -48,10 +48,19 @@ h2 {
 .nav {
 	margin-top: 26px;
 	font-size: 18px;
-	font-weight: 400;
+	font-weight: 700;
 	font-family: 'Roboto';
 }
 
 .nav>li>a:hover {
 	background-color: transparent;
+}
+
+iframe {
+	border-bottom: solid 1px #eee;
+}
+
+.btn-success {
+	padding: 15px 60px;
+	font-size: 22px;
 }
