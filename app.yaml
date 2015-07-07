@@ -1,5 +1,5 @@
 application: gdgmalaysia
-version: io15xkl
+version: develop
 runtime: python27
 api_version: 1
 threadsafe: true
@@ -22,5 +22,5 @@ handlers:
 #   upload: templates/chapters.html
 
 - url: /.*
-  static_files: templates/io15xkl.html
-  upload: templates/io15xkl.html
+  static_files: templates/io15xkl-mdl.html
+  upload: templates/io15xkl-mdl.html
